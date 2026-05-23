@@ -26,4 +26,7 @@ Titanic V2:
   ROC-AUC
   Confusion Metrics
   Threshold Tuning
+
+Cancer:
+  I used the sklearn's breast cancer dataset and used logistic regression on it this is very simple project.
   
