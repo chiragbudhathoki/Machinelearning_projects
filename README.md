@@ -29,4 +29,7 @@ Titanic V2:
 
 Cancer:
   I used the sklearn's breast cancer dataset and used logistic regression on it this is very simple project.
+
+heart_disease:
+  This is a simple svc which predicts whether a person has heart disease or not i used rbf kernel and the C was 1.0. The accuracy was 0.85, precision was 0.83, recall was 0.86 and the f1 score was 0.84.
   
