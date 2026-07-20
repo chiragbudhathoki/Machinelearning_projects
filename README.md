@@ -35,4 +35,7 @@ heart_disease:
 
 bank_note.py
  This project uses the bank note authentication dataset and i build the decision tree from the scratch with the help of this blog https://machinelearningmastery.com/implement-decision-tree-algorithm-scratch-python/ 
-  
+
+Forest.py
+  This project uses the sonar dataset from https://archive.ics.uci.edu/dataset/151/connectionist+bench+sonar+mines+vs+rocks and i build this random forest from scratch with the help of this blog 
+  https://machinelearningmastery.com/implement-random-forest-scratch-python/
