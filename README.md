@@ -33,9 +33,9 @@ Cancer:
 heart_disease:
   This is a simple svc which predicts whether a person has heart disease or not i used rbf kernel and the C was 1.0. The accuracy was 0.85, precision was 0.83, recall was 0.86 and the f1 score was 0.84.
 
-bank_note.py
+bank_note.py:
  This project uses the bank note authentication dataset and i build the decision tree from the scratch with the help of this blog https://machinelearningmastery.com/implement-decision-tree-algorithm-scratch-python/ 
 
-Forest.py
+Forest.py:
   This project uses the sonar dataset from https://archive.ics.uci.edu/dataset/151/connectionist+bench+sonar+mines+vs+rocks and i build this random forest from scratch with the help of this blog 
   https://machinelearningmastery.com/implement-random-forest-scratch-python/
